@@ -1,7 +1,7 @@
 
 To make changes to a repo
 git add -A
-git commit
+git commit -m "changes by devA"
 git push
 
 From differnt laptop
