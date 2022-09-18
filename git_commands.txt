@@ -1,0 +1,8 @@
+
+To make changes to a repo
+git add -A
+git commit
+git push
+
+From differnt laptop
+git pull
